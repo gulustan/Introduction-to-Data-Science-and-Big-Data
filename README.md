@@ -1,6 +1,7 @@
 # Introduction-to-Data-Science-and-Big-Data
 The main purpose of the project is to enable me to apply data science algorithms for real-world tasks by
 using Python notebook and thus to make me qualified in data science.
+
 Evaluation Criteria
 • The technical quality of the work. Are the proposed algorithms or applications clever and
 interesting?
